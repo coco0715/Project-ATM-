@@ -3,7 +3,7 @@ Unity 게임개발 숙련 개인과제
 
 
 ## 🖥️ 과제 소개
-스파르타 ATM System 만들기
+SpartaBank ATM System 만들기
 
 ## 🕰️ 개발 기간
 * 23.09.21일 - 23.09.22일
