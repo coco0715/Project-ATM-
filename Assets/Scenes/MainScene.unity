@@ -194,9 +194,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Sparta Bank
-
-    ATM'
+  m_Text: 'Sparta Bank ATM'
 --- !u!222 &68678069
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -917,7 +915,6 @@ MonoBehaviour:
   m_PresetInfoIsWorld: 0
 --- !u!223 &723145498
 Canvas:
-
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -940,7 +937,6 @@ Canvas:
   m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &723145499
-
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
