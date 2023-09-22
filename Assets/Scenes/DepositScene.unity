@@ -866,7 +866,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Sparta Bank
 
-    ATM'
+    ATM -'
 --- !u!222 &658525279
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2533,4 +2533,3 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2025025903}
   m_CullTransparentMesh: 1
-
