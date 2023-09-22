@@ -18,5 +18,5 @@ Unity 게임개발 숙련 개인과제
 - ATM Scene UI 구성
 
 ##  ATM MainScene
-
+https://user-images.githubusercontent.com/101281567/269813017-b851a319-7ba3-4cf0-b4c4-6e34e205c4f3.png
 ##  ATM DepositScene
