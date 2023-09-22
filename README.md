@@ -16,6 +16,8 @@ SpartaBank ATM System 만들기
 
 ## 📌 주요 기능
 - ATM Scene UI 구성
+  - MainScene UI 완성
+  - DepositScene UI 구현중 
 
 ##  ATM MainScene
 ![SmartSelectImage_2023-09-22-11-35-15](https://github.com/coco0715/Project-ATM-/assets/101281567/b851a319-7ba3-4cf0-b4c4-6e34e205c4f3)
