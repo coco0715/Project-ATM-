@@ -866,7 +866,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Sparta Bank
 
-    ATM -'
+    ATM'
 --- !u!222 &658525279
 CanvasRenderer:
   m_ObjectHideFlags: 0
