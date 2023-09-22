@@ -20,3 +20,4 @@ Unity 게임개발 숙련 개인과제
 ##  ATM MainScene
 ![SmartSelectImage_2023-09-22-11-35-15](https://github.com/coco0715/Project-ATM-/assets/101281567/b851a319-7ba3-4cf0-b4c4-6e34e205c4f3)
 ##  ATM DepositScene
+![SmartSelectImage_2023-09-22-11-37-51](https://github.com/coco0715/Project-ATM-/assets/101281567/f259f8f8-81a7-4798-95e4-e460a20e0698)
